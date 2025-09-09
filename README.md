@@ -13,8 +13,4 @@ Permite adicionar hábitos, marcar como concluídos e visualizar o histórico de
 - CSS
 - JavaScript
 
-## ▶️ Como usar
-Clone este repositório e abra o arquivo `index.html` no navegador.
 
-```bash
-git clone https://github.com/seu-usuario/habit-tracker.git
